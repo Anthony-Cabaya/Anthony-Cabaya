@@ -1,9 +1,11 @@
-<h1 align="left">Hi! Anthony Here</h1>
+<h1 align="center">Hi! Anthony Here</h1>
 
 ###
 
 <h2 align="left">About me</h2>
-<p align="left">📚 Still learning ...</p>
+<div align="center">
+  📚 <strong>Still learning ...</strong>
+</div>
 
 <h2 align="left">Languages & Tools I Use</h2>
 
