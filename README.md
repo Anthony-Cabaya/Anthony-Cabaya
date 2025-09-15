@@ -1,7 +1,5 @@
 <h1 align="center">Hi! Anthony Here</h1>
 
-###
-
 <h2 align="left">About me</h2>
 <div align="center">
   📚 <strong>Still learning ...</strong>
@@ -33,11 +31,17 @@
   <tr>
     <td align="left" valign="middle"><strong>Web Development:</strong></td>
     <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+      <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
       <img width="12" />
-<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" /> -->
-      <img width="12" />
-<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> -->
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" /> -->
+      <!-- <img width="12" /> -->
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> -->
     </td>
   </tr>
   <tr>
@@ -45,12 +49,13 @@
     <td align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
       <img width="12" />
-<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> -->
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> -->
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
     </td>
   </tr>
-<!--   <tr>
+  <!--
+  <tr>
     <td align="left" valign="middle"><strong>AI & Machine Learning:</strong></td>
     <td align="center" valign="middle">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -61,7 +66,8 @@
       <img width="12" />
       <img src="assets/ultralytics-logo.svg" height="40" alt="YOLOv8" />
     </td>
-  </tr> -->
+  </tr>
+  -->
 </table>
 
 </div>
