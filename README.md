@@ -62,22 +62,6 @@
       </div>
     </td>
   </tr>
-  <!--
-  <tr>
-    <td align="left" valign="middle"><strong>AI & Machine Learning:</strong></td>
-    <td align="center" valign="middle">
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-        <img width="12" />
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-        <img width="12" />
-        <img src="assets/ultralytics-logo.svg" height="40" alt="YOLOv8" />
-      </div>
-    </td>
-  </tr>
-  -->
 </table>
 
 </div>
