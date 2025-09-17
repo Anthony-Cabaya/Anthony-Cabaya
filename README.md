@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 <div align="center">
-  📚 <strong>Currently learning HTML, CSS, and JavaScript — diving into Next.js for web development. I'm also exploring deep learning tools like OpenCV, TensorFlow, and YOLOv8, with an interest in integrating them into embedded systems such as microcontrollers for IoT and automation projects.</strong>
+  📚 <strong>Currently learning HTML, CSS, and JavaScript — diving into React or Next.js for web development. I'm also exploring deep learning tools like OpenCV, TensorFlow, and YOLOv8, with an interest in integrating them into embedded systems such as microcontrollers for IoT and automation projects.</strong>
 </div>
 
 <h2 align="left">Languages & Tools I Use</h2>
