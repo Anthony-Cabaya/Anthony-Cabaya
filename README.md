@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 <div align="center">
-  📚 <strong>Currently learning HTML, CSS, and JavaScript, and diving into React or Next.js for web development, as well as need API, Database, Etc.. I also want to strengthen my C++ Arduino IDE coding skills and learn C for embedded systems where it is widely applied, while exploring deep learning tools like OpenCV, TensorFlow, and YOLOv8 for computer vision, object detection, and machine learning. My goal is to combine microcontroller programming with AI technologies for IoT and automation projects.</strong>
+  📚 <strong>I am a <b>Computer Engineering graduate</b> and passionate about becoming an IoT & Embedded Systems Enthusiast and Junior Software Developer. I'm currently learning HTML, CSS, and JavaScript, focusing on React/Next.js for full-stack web development. Once I’ve built a solid foundation, I plan to integrate MongoDB for database handling, and I'm currently exploring API design and deployment tools.<br><br> Alongside web development, I’m strengthening my C++ skills in the Arduino IDE and learning C for embedded systems, while exploring OpenCV, TensorFlow, and YOLOv8 for computer vision and AI. My goal is to combine microcontroller programming with AI and web technologies for IoT & automation projects.</strong>
 </div>
 
 <h2 align="left">Languages & Tools I Use</h2>
