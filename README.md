@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 <div align="center">
-  📚 <strong>I am a <b>Computer Engineering graduate</b> and passionate about becoming an IoT & Embedded Systems Enthusiast and Junior Software Developer. I'm currently focusing on learning the fundamentals of <b>JavaScript</b> and <b>Java</b>. Following that, I plan to dive into the fundamentals of frameworks such as <b>React</b> and <b>Spring Boot</b>, as well as enhance my understanding of <b>Data Structures and Algorithms</b>.<br><br> Alongside web development, I’m strengthening my C++ skills in the Arduino IDE and learning C for embedded systems, while exploring OpenCV, TensorFlow, and YOLOv8 for computer vision and AI. My goal is to combine microcontroller programming with AI and web technologies for IoT & automation projects.</strong>
+  📚 <strong>I am a <b>Computer Engineering graduate</b> and passionate about becoming an IoT & Embedded Systems Enthusiast and Junior Software Developer. I'm currently focusing on learning the fundamentals of <b>JavaScript</b> and <b>Java</b>. Following that, I plan to dive into the fundamentals of frameworks such as <b>React</b> and <b>Spring Boot</b>, as well as enhance my understanding of <b>Data Structures and Algorithms</b>. Additionally, I am learning the basics of SQL, specifically with <b>PostgreSQL</b>.<br><br> Alongside web development, I’m strengthening my C++ skills in the Arduino IDE and learning C for embedded systems, while exploring OpenCV, TensorFlow, and YOLOv8 for computer vision and AI. My goal is to combine microcontroller programming with AI and web technologies for IoT & automation projects.</strong>
 </div>
 
 <h2 align="left">Languages & Tools I Use</h2>
