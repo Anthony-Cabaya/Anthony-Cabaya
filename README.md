@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 <div align="center">
-  📚 <strong>I am a <b>Computer Engineering graduate</b> and passionate about becoming an IoT & Embedded Systems Enthusiast and Junior Software Developer. I'm currently learning HTML, CSS, and JavaScript, focusing on React/Next.js for full-stack web development. Once I’ve built a solid foundation, I plan to integrate MongoDB for database handling, and I'm currently exploring API design and deployment tools.<br><br> Alongside web development, I’m strengthening my C++ skills in the Arduino IDE and learning C for embedded systems, while exploring OpenCV, TensorFlow, and YOLOv8 for computer vision and AI. My goal is to combine microcontroller programming with AI and web technologies for IoT & automation projects.</strong>
+  📚 <strong>I am a <b>Computer Engineering graduate</b> and passionate about becoming an IoT & Embedded Systems Enthusiast and Junior Software Developer. I'm currently focusing on learning the fundamentals of <b>JavaScript</b> and <b>Java</b>. Following that, I plan to dive into the fundamentals of frameworks such as <b>React</b> and <b>Spring Boot</b>, as well as enhance my understanding of <b>Data Structures and Algorithms</b>.<br><br> Alongside web development, I’m strengthening my C++ skills in the Arduino IDE and learning C for embedded systems, while exploring OpenCV, TensorFlow, and YOLOv8 for computer vision and AI. My goal is to combine microcontroller programming with AI and web technologies for IoT & automation projects.</strong>
 </div>
 
 <h2 align="left">Languages & Tools I Use</h2>
@@ -35,8 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <!-- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" /> -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
 </div>
 
 <!-- Database & Real-time DB -->
@@ -45,8 +45,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <!-- <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" /> -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
 
 <!-- AI & Machine Learning -->
