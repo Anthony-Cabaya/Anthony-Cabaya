@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 <div align="center">
-  📚 <strong>I am a <b>Computer Engineering graduate</b> and passionate about becoming an IoT & Embedded Systems Enthusiast and Junior Software Developer. I'm currently focusing on learning the fundamentals of <b>JavaScript</b> and <b>Java</b>. Following that, I plan to dive into the fundamentals of frameworks such as <b>React</b> and <b>Spring Boot</b>, as well as enhance my understanding of <b>Data Structures and Algorithms</b>. Additionally, I am learning the basics of SQL, specifically with <b>PostgreSQL</b>.<br><br> Alongside web development, I’m strengthening my C++ and Python skills for embedded systems using the Arduino IDE, while exploring OpenCV, TensorFlow, and YOLOv8 for computer vision and AI. My goal is to integrate microcontroller programming with AI and web technologies for IoT and automation projects.</strong>
+  📚 <strong>I am a <b>Computer Engineering graduate</b> and passionate about becoming an IoT & Embedded Systems Enthusiast and Junior Software Developer. I'm currently focusing on learning the fundamentals of <!-- <b>JavaScript</b>, <b>Java</b>, --> <b>C#</b>. Following that, I plan to dive into frameworks such as <!-- <b>React</b>, --> <b>ASP.NET Core (MVC)</b>, as well as enhance my understanding of <b>Data Structures and Algorithms</b> and <b>Clean Architecture</b>. Additionally, I am learning SQL using <!-- <b>PostgreSQL</b>, --> <b>SQL Server</b>.<br><br> Alongside web development, I’m strengthening my C++ and Python skills for embedded systems using the Arduino IDE, while exploring OpenCV, TensorFlow, and YOLOv8 for computer vision and AI. My goal is to integrate microcontroller programming with AI and web technologies for IoT and automation projects.</strong>
 </div>
 
 <h2 align="left">Languages & Tools I Use</h2>
@@ -47,6 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET Core MVC" />
 </div>
 
 
@@ -58,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
 </div>
 
 <!-- AI & Machine Learning -->
@@ -71,5 +77,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img width="12" />
   <img src="assets/ultralytics-logo.svg" height="40" alt="YOLOv8" />
+</div>
+
+<div align="center">
+  <strong>Architecture:</strong><br/>
+  <!-- Clean Architecture (text badge since no official icon) -->
+  <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge&logo=dependabot&logoColor=white" height="28" alt="Clean Architecture" />
 </div>
 -->
