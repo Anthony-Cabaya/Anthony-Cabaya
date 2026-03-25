@@ -84,4 +84,3 @@
   <!-- Clean Architecture (text badge since no official icon) -->
   <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge&logo=dependabot&logoColor=white" height="28" alt="Clean Architecture" />
 </div>
--->
