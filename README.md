@@ -9,7 +9,7 @@
 
 <!-- Embedded & IoT -->
 <div align="center" style="margin-bottom: 30px;">
-  <strong>Embedded & IoT:</strong><br/><br/>
+  <strong>Embedded & IoT:</strong>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
     <div style="display: flex; align-items: center; gap: 8px; padding: 5px 10px; border-radius: 6px; background:#f5f5f5;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" alt="C++" />
