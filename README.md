@@ -10,7 +10,7 @@
 <!-- Embedded & IoT -->
 <div align="center">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr align="center" style="border: none;">
       <td style="border: none; padding: 5px 15px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /><br/>
@@ -31,7 +31,7 @@
 <!-- Mobile Development -->
 <div align="center">
   <strong>Mobile Development:</strong><br/><br/>
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr align="center" style="border: none;">
       <td style="border: none; padding: 5px 15px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" /><br/>
@@ -52,7 +52,7 @@
 <!-- Frontend Development -->
 <div align="center">
   <strong>Frontend Development:</strong><br/><br/>
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr align="center" style="border: none;">
       <td style="border: none; padding: 5px 15px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /><br/>
@@ -77,7 +77,7 @@
 <!-- Backend Development -->
 <div align="center">
   <strong>Backend Development:</strong><br/><br/>
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr align="center" style="border: none;">
       <td style="border: none; padding: 5px 15px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
@@ -102,7 +102,7 @@
 <!-- Database & Real-time DB -->
 <div align="center">
   <strong>Database & Real-time DB:</strong><br/><br/>
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr align="center" style="border: none;">
       <td style="border: none; padding: 5px 15px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" /><br/>
@@ -124,7 +124,7 @@
 <!--
 <div align="center">
   <strong>AI & Machine Learning:</strong><br/><br/>
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr align="center" style="border: none;">
       <td style="border: none; padding: 5px 15px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
@@ -150,7 +150,7 @@
 <!-- Architecture & Concepts -->
 <div align="center">
   <strong>Architecture & Concepts Learned:</strong><br/><br/>
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr align="center" style="border: none;">
       <td style="border: none; padding: 5px 15px;">
         <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" /><br/>
