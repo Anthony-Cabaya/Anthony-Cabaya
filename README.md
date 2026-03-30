@@ -12,7 +12,7 @@
   <strong>Embedded & IoT:</strong><br/><br/>
   <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: center;">
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
       C++
     </div>
     <div style="text-align: center;">
