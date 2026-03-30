@@ -8,19 +8,22 @@
 <h2 align="left">Languages & Tools I Use</h2>
 
 <!-- Embedded & IoT -->
-<!-- Embedded & IoT -->
 <div align="center">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <table>
-    <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/></td>
-      <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
-    </tr>
-    <tr align="center">
-      <td>C++</td>
-      <td>Arduino</td>
-      <td>Python</td>
+  <table style="border-collapse: collapse; border: none;">
+    <tr align="center" style="border: none;">
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /><br/>
+        C++
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino" /><br/>
+        Arduino
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
+        Python
+      </td>
     </tr>
   </table>
 </div>
@@ -28,86 +31,135 @@
 <!-- Mobile Development -->
 <div align="center">
   <strong>Mobile Development:</strong><br/><br/>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40"/><br/>Android
-  </div>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br/>Java
-  </div>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40"/><br/>Flutter
-  </div>
-</div>
-
-
-<!-- Frontend Development -->
-<div align="center">
-  <strong>Frontend Development:</strong><br/><br/>
-  <table>
-    <tr align="center">
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></td>
-    </tr>
-    <tr align="center">
-      <td>HTML</td>
-      <td>CSS</td>
-      <td>JavaScript</td>
-      <td>React</td>
+  <table style="border-collapse: collapse; border: none;">
+    <tr align="center" style="border: none;">
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" /><br/>
+        Android
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
+        Java
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter" /><br/>
+        Flutter
+      </td>
     </tr>
   </table>
 </div>
 
+<!-- Frontend Development -->
+<div align="center">
+  <strong>Frontend Development:</strong><br/><br/>
+  <table style="border-collapse: collapse; border: none;">
+    <tr align="center" style="border: none;">
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /><br/>
+        HTML
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /><br/>
+        CSS
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>
+        JavaScript
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" /><br/>
+        React
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Backend Development -->
 <div align="center">
   <strong>Backend Development:</strong><br/><br/>
-  <div style="display:inline-block; width:120px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br/>Java
-  </div>
-  <div style="display:inline-block; width:120px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/><br/>Spring Boot
-  </div>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/><br/>C#
-  </div>
-  <div style="display:inline-block; width:150px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/><br/>ASP.NET Core MVC
-  </div>
+  <table style="border-collapse: collapse; border: none;">
+    <tr align="center" style="border: none;">
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
+        Java
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /><br/>
+        Spring Boot
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /><br/>
+        C#
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET Core MVC" /><br/>
+        ASP.NET Core MVC
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 <!-- Database & Real-time DB -->
 <div align="center">
   <strong>Database & Real-time DB:</strong><br/><br/>
-  <div style="display:inline-block; width:120px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/><br/>MySQL
-  </div>
-  <div style="display:inline-block; width:120px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/><br/>Firebase
-  </div>
-  <div style="display:inline-block; width:120px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/><br/>SQL Server
-  </div>
+  <table style="border-collapse: collapse; border: none;">
+    <tr align="center" style="border: none;">
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" /><br/>
+        MySQL
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" /><br/>
+        Firebase
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" /><br/>
+        SQL Server
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- AI & Machine Learning -->
 <!--
 <div align="center">
-  <strong>AI & Machine Learning:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="assets/ultralytics-logo.svg" height="40" alt="YOLOv8" />
+  <strong>AI & Machine Learning:</strong><br/><br/>
+  <table style="border-collapse: collapse; border: none;">
+    <tr align="center" style="border: none;">
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
+        Python
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" /><br/>
+        OpenCV
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" /><br/>
+        TensorFlow
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="assets/ultralytics-logo.svg" height="40" alt="YOLOv8" /><br/>
+        YOLOv8
+      </td>
+    </tr>
+  </table>
 </div>
+-->
 
 <!-- Architecture & Concepts -->
 <div align="center">
-  <strong>Architecture & Concepts Learned:</strong><br/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MVC" />
+  <strong>Architecture & Concepts Learned:</strong><br/><br/>
+  <table style="border-collapse: collapse; border: none;">
+    <tr align="center" style="border: none;">
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" /><br/>
+        Clean Architecture
+      </td>
+      <td style="border: none; padding: 5px 15px;">
+        <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MVC" /><br/>
+        MVC
+      </td>
+    </tr>
+  </table>
 </div>
