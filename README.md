@@ -79,11 +79,11 @@
   <img src="assets/ultralytics-logo.svg" height="40" alt="YOLOv8" />
 </div>
 
+<!-- Architecture & Concepts -->
 <div align="center">
   <strong>Architecture & Concepts Learned:</strong><br/><br/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MVC" />
   <br/><br/>
   <p>I learned and applied Clean Architecture principles and the MVC pattern in this project.</p>
-</div>
 </div>
