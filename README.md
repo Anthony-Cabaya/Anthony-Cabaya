@@ -8,103 +8,103 @@
 <h2 align="left">Languages & Tools I Use</h2>
 
 <!-- Embedded & IoT -->
-<div align="center">
+<div align="center" style="margin-bottom: 30px;">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: flex-start;">
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-bottom:5px;" alt="C++" /><br/>
       C++
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino" /><br/>
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" style="margin-bottom:5px;" alt="Arduino" /><br/>
       Arduino
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-bottom:5px;" alt="Python" /><br/>
       Python
     </div>
   </div>
 </div>
 
 <!-- Mobile Development -->
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-bottom: 30px;">
   <strong>Mobile Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: flex-start;">
     <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" /><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" style="margin-bottom:5px;" alt="Android" /><br/>
       Android
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin-bottom:5px;" alt="Java" /><br/>
       Java
     </div>
     <div style="text-align: center;">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter" /><br/>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" style="margin-bottom:5px;" alt="Flutter" /><br/>
       Flutter
     </div>
   </div>
 </div>
 
 <!-- Frontend Development -->
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-bottom: 30px;">
   <strong>Frontend Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: flex-start;">
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin-bottom:5px;" alt="HTML5" /><br/>
       HTML
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin-bottom:5px;" alt="CSS3" /><br/>
       CSS
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-bottom:5px;" alt="JavaScript" /><br/>
       JavaScript
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="margin-bottom:5px;" alt="React.js" /><br/>
       React
     </div>
   </div>
 </div>
 
 <!-- Backend Development -->
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-bottom: 30px;">
   <strong>Backend Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: flex-start;">
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin-bottom:5px;" alt="Java" /><br/>
       Java
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" style="margin-bottom:5px;" alt="Spring Boot" /><br/>
       Spring Boot
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" style="margin-bottom:5px;" alt="C#" /><br/>
       C#
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET Core MVC" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" style="margin-bottom:5px;" alt="ASP.NET Core MVC" /><br/>
       ASP.NET Core MVC
     </div>
   </div>
 </div>
 
 <!-- Database & Real-time DB -->
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-bottom: 30px;">
   <strong>Database & Real-time DB:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: flex-start;">
     <div style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" /><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" style="margin-bottom:5px;" alt="MySQL" /><br/>
       MySQL
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" style="margin-bottom:5px;" alt="Firebase" /><br/>
       Firebase
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" style="margin-bottom:5px;" alt="SQL Server" /><br/>
       SQL Server
     </div>
   </div>
@@ -114,21 +114,21 @@
 <!--
 <div align="center" style="margin-top: 30px;">
   <strong>AI & Machine Learning:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: flex-start;">
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-bottom:5px;" alt="Python" /><br/>
       Python
     </div>
     <div style="text-align: center;">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" /><br/>
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" style="margin-bottom:5px;" alt="OpenCV" /><br/>
       OpenCV
     </div>
     <div style="text-align: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" /><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" style="margin-bottom:5px;" alt="TensorFlow" /><br/>
       TensorFlow
     </div>
     <div style="text-align: center;">
-      <img src="assets/ultralytics-logo.svg" height="40" alt="YOLOv8" /><br/>
+      <img src="assets/ultralytics-logo.svg" height="40" style="margin-bottom:5px;" alt="YOLOv8" /><br/>
       YOLOv8
     </div>
   </div>
@@ -136,15 +136,15 @@
 -->
 
 <!-- Architecture & Concepts -->
-<div align="center" style="margin-top: 30px;">
+<div align="center" style="margin-bottom: 30px;">
   <strong>Architecture & Concepts Learned:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; align-items: flex-start;">
     <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" /><br/>
+      <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" style="margin-bottom:5px;" alt="Clean Architecture" /><br/>
       Clean Architecture
     </div>
     <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MVC" /><br/>
+      <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="28" style="margin-bottom:5px;" alt="MVC" /><br/>
       MVC
     </div>
   </div>
