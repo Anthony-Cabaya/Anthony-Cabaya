@@ -9,7 +9,7 @@
 
 <!-- Embedded & IoT -->
 <div align="center" style="margin-bottom: 30px;">
-  <strong>Embedded & IoT:</strong><br/><br/>
+  <strong>Embedded & IoT:</strong><br/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
     <!-- C++ -->
     <div style="display: flex; align-items: center; gap: 8px; padding: 5px 10px; border-radius:6px; background:#f5f5f5;">
@@ -31,7 +31,7 @@
 
 <!-- Mobile Development -->
 <div align="center" style="margin-top: 30px;">
-  <strong>Mobile Development:</strong><br/><br/>
+  <strong>Mobile Development:</strong><br/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
     <!-- Android -->
     <div style="display: flex; align-items: center; gap: 8px; padding: 5px 10px; border-radius:6px; background:#f5f5f5;">
@@ -53,7 +53,7 @@
 
 <!-- Frontend Development -->
 <div align="center" style="margin-top: 30px;">
-  <strong>Frontend Development:</strong><br/><br/>
+  <strong>Frontend Development:</strong><br/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
     <!-- HTML -->
     <div style="display: flex; align-items: center; gap: 8px; padding: 5px 10px; border-radius:6px; background:#f5f5f5;">
@@ -80,7 +80,7 @@
 
 <!-- Backend Development -->
 <div align="center" style="margin-top: 30px;">
-  <strong>Backend Development:</strong><br/><br/>
+  <strong>Backend Development:</strong><br/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
     <!-- Java -->
     <div style="display: flex; align-items: center; gap: 8px; padding: 5px 10px; border-radius:6px; background:#f5f5f5;">
@@ -107,7 +107,7 @@
 
 <!-- Database & Real-time DB -->
 <div align="center" style="margin-top: 30px;">
-  <strong>Database & Real-time DB:</strong><br/><br/>
+  <strong>Database & Real-time DB:</strong><br/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
     <!-- MySQL -->
     <div style="display: flex; align-items: center; gap: 8px; padding: 5px 10px; border-radius:6px; background:#f5f5f5;">
@@ -130,7 +130,7 @@
 <!-- AI & Machine Learning -->
 <!--
 <div align="center" style="margin-top: 30px;">
-  <strong>AI & Machine Learning:</strong><br/><br/>
+  <strong>AI & Machine Learning:</strong><br/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
     <div style="display: flex; align-items: center; gap: 8px; padding: 5px 10px; border-radius:6px; background:#f5f5f5;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python" />
@@ -154,7 +154,7 @@
 
 <!-- Architecture & Concepts -->
 <div align="center" style="margin-top: 30px;">
-  <strong>Architecture & Concepts Learned:</strong><br/><br/>
+  <strong>Architecture & Concepts Learned:</strong><br/>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
     <!-- Clean Architecture -->
     <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" /><br/>
