@@ -8,17 +8,21 @@
 <h2 align="left">Languages & Tools I Use</h2>
 
 <!-- Embedded & IoT -->
+<!-- Embedded & IoT -->
 <div align="center">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/><br/>C++
-  </div>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40"/><br/>Arduino
-  </div>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br/>Python
-  </div>
+  <table>
+    <tr align="center">
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/></td>
+      <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></td>
+    </tr>
+    <tr align="center">
+      <td>C++</td>
+      <td>Arduino</td>
+      <td>Python</td>
+    </tr>
+  </table>
 </div>
 
 <!-- Mobile Development -->
@@ -39,18 +43,20 @@
 <!-- Frontend Development -->
 <div align="center">
   <strong>Frontend Development:</strong><br/><br/>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br/>HTML
-  </div>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br/>CSS
-  </div>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br/>JavaScript
-  </div>
-  <div style="display:inline-block; width:100px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br/>React
-  </div>
+  <table>
+    <tr align="center">
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></td>
+    </tr>
+    <tr align="center">
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>JavaScript</td>
+      <td>React</td>
+    </tr>
+  </table>
 </div>
 
 
