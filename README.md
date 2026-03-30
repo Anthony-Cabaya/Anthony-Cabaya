@@ -8,18 +8,18 @@
 <h2 align="left">Languages & Tools I Use</h2>
 
 <!-- Embedded & IoT -->
-<div align="center">
+<div align="center" style="margin-bottom: 30px;">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-    <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /><br/>
       C++
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino" /><br/>
       Arduino
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
       Python
     </div>
@@ -29,16 +29,16 @@
 <!-- Mobile Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Mobile Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-    <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" /><br/>
       Android
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
       Java
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter" /><br/>
       Flutter
     </div>
@@ -48,20 +48,20 @@
 <!-- Frontend Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Frontend Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-    <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /><br/>
       HTML
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /><br/>
       CSS
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>
       JavaScript
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" /><br/>
       React
     </div>
@@ -71,20 +71,20 @@
 <!-- Backend Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Backend Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-    <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
       Java
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /><br/>
       Spring Boot
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /><br/>
       C#
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET Core MVC" /><br/>
       ASP.NET Core MVC
     </div>
@@ -94,16 +94,16 @@
 <!-- Database & Real-time DB -->
 <div align="center" style="margin-top: 30px;">
   <strong>Database & Real-time DB:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-    <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" /><br/>
       MySQL
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" /><br/>
       Firebase
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; padding: 8px 12px; border-radius: 8px; background:#f0f0f0; width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" /><br/>
       SQL Server
     </div>
@@ -138,14 +138,8 @@
 <!-- Architecture & Concepts -->
 <div align="center" style="margin-top: 30px;">
   <strong>Architecture & Concepts Learned:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" /><br/>
-      Clean Architecture
-    </div>
-    <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MVC" /><br/>
-      MVC
-    </div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" /><br/>
+    <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MVC" /><br/>
   </div>
 </div>
