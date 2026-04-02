@@ -10,20 +10,20 @@
 <!-- Embedded & IoT -->
 <div align="center" style="margin-bottom: 30px;">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <div align="center">
-    <div style="text-align: center; display: inline-block; margin: 10px;">
+  <p align="center">
+    <span style="display:inline-block; text-align:center; margin:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /><br/>
       C++
-    </div>
-    <div style="text-align: center; display: inline-block; margin: 10px;">
+    </span>
+    <span style="display:inline-block; text-align:center; margin:10px;">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino" /><br/>
       Arduino
-    </div>
-    <div style="text-align: center; display: inline-block; margin: 10px;">
+    </span>
+    <span style="display:inline-block; text-align:center; margin:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
       Python
-    </div>
-  </div>
+    </span>
+  </p>
 </div>
 
 <!-- Mobile Development -->
