@@ -10,16 +10,16 @@
 <!-- Embedded & IoT -->
 <div align="center" style="margin-bottom: 30px;">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); justify-items: center; gap: 20px; align-items: center;">
-    <div style="text-align: center;">
+  <div align="center">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /><br/>
       C++
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino" /><br/>
       Arduino
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br/>
       Python
     </div>
@@ -29,16 +29,16 @@
 <!-- Mobile Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Mobile Development:</strong><br/><br/>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); justify-items: center; gap: 20px; align-items: center;">
-    <div style="text-align: center;">
+  <div align="center">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android" /><br/>
       Android
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
       Java
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter" /><br/>
       Flutter
     </div>
@@ -48,20 +48,20 @@
 <!-- Frontend Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Frontend Development:</strong><br/><br/>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); justify-items: center; gap: 20px; align-items: center;">
-    <div style="text-align: center;">
+  <div align="center">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /><br/>
       HTML
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /><br/>
       CSS
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>
       JavaScript
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" /><br/>
       React
     </div>
@@ -71,20 +71,20 @@
 <!-- Backend Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Backend Development:</strong><br/><br/>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); justify-items: center; gap: 20px; align-items: center;">
-    <div style="text-align: center;">
+  <div align="center">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br/>
       Java
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" /><br/>
       Spring Boot
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /><br/>
       C#
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET Core MVC" /><br/>
       ASP.NET Core MVC
     </div>
@@ -94,16 +94,16 @@
 <!-- Database & Real-time DB -->
 <div align="center" style="margin-top: 30px;">
   <strong>Database & Real-time DB:</strong><br/><br/>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); justify-items: center; gap: 20px; align-items: center;">
-    <div style="text-align: center;">
+  <div align="center">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" /><br/>
       MySQL
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" /><br/>
       Firebase
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: inline-block; margin: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" /><br/>
       SQL Server
     </div>
