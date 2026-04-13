@@ -10,7 +10,7 @@
 <!-- Embedded & IoT -->
 <div align="center" style="margin-bottom: 30px;">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-bottom: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -25,7 +25,7 @@
 <!-- Mobile Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Mobile Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-bottom: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter"/>
@@ -40,7 +40,7 @@
 <!-- Frontend Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Frontend Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-bottom: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -57,7 +57,7 @@
 <!-- Backend Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Backend Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-bottom: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
@@ -74,7 +74,7 @@
 <!-- Database & Real-time DB -->
 <div align="center" style="margin-top: 30px;">
   <strong>Database & Real-time DB:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-bottom: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
@@ -117,5 +117,4 @@
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); justify-items: center; gap: 15px; align-items: center;">
     <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" height="28" alt="Clean Architecture" /><br/>
     <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="28" alt="MVC" /><br/>
-  </div>
-</div>
+  </div
