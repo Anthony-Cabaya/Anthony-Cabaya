@@ -10,12 +10,12 @@
 <!-- Embedded & IoT -->
 <div align="center" style="margin-bottom: 30px;">
   <strong>Embedded & IoT:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   </div>
-  <p align="center">
+  <p align="center" style="margin-top: 0;">
     C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Arduino &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Python
@@ -25,12 +25,12 @@
 <!-- Mobile Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Mobile Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter"/>
   </div>
-  <p align="center">
+  <p align="center" style="margin-top: 0;">
     Android &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Flutter
@@ -40,13 +40,13 @@
 <!-- Frontend Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Frontend Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js"/>
   </div>
-  <p align="center">
+  <p align="center" style="margin-top: 0;">
     HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,13 +57,13 @@
 <!-- Backend Development -->
 <div align="center" style="margin-top: 30px;">
   <strong>Backend Development:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET Core MVC"/>
   </div>
-  <p align="center">
+  <p align="center" style="margin-top: 0;">
     Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Spring Boot &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     C# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,12 +74,12 @@
 <!-- Database & Real-time DB -->
 <div align="center" style="margin-top: 30px;">
   <strong>Database & Real-time DB:</strong><br/><br/>
-  <div style="display: flex; justify-content: center; gap: 25px; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 25px; align-items: center; margin-bottom: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
   </div>
-  <p align="center">
+  <p align="center" style="margin-top: 0;">
     MySQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     Firebase &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     SQL Server
